@@ -1,0 +1,8 @@
+/Users/Jacques/Retail/ProductRepo/src/main/java/com/kubeiko/Product/controller/ProductController.java
+/Users/Jacques/Retail/ProductRepo/src/main/java/com/kubeiko/Product/dto/ProductDTO.java
+/Users/Jacques/Retail/ProductRepo/src/main/java/com/kubeiko/Product/repo/ProductRepo.java
+/Users/Jacques/Retail/ProductRepo/src/main/java/com/kubeiko/Product/model/Product.java
+/Users/Jacques/Retail/ProductRepo/src/main/java/com/kubeiko/Product/service/ProductServiceImpl.java
+/Users/Jacques/Retail/ProductRepo/src/main/java/com/kubeiko/Product/dao/ProductDao.java
+/Users/Jacques/Retail/ProductRepo/src/main/java/com/kubeiko/Product/service/ProductServiceIF.java
+/Users/Jacques/Retail/ProductRepo/src/main/java/com/kubeiko/Product/ProductApplication.java
